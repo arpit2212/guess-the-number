@@ -2,7 +2,7 @@
 
 Welcome to the Guess the Number game repository! This simple and fun project is designed to test your guessing skills. The game generates a random number, and it's your challenge to guess it correctly within a certain range.
 
-**Screenshot 2023-12-17 120258.png**
+![Sample Image](https://github.com/arpit2212/guess-the-number/blob/main/Screenshot%202023-12-17%20120258.png)
 
 # Features:
 
